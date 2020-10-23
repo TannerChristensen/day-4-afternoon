@@ -1,5 +1,5 @@
 import React, {Component} from "react"
-import "./reset.css"
+import "./Reset.css"
 import "./App.css"
 import Card from "./Card"
 import Buttons from "./Buttons"
